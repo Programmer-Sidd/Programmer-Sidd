@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif">
 
 - 🔭 I’m currently working on improving my Python skills.  
-  Check out my [Python Projects](https://github.com/Programmer-Siddhartha/Python-Projects) – includes project purpose, tech stack, and features.
+  Check out my [Python Projects](https://github.com/Programmer-Sidd/Python-Projects) – includes project purpose, tech stack, and features.
 
 - 🌱 I’m learning and exploring **AI/ML, Blockchain, Web Dev**, and **Python frameworks**.
 
